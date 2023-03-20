@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patrones.iml" filepath="$PROJECT_DIR$/Patrones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TExtbox/TExtbox.iml" filepath="$PROJECT_DIR$/TExtbox/TExtbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Textbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Textbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Textbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Textbox.test.iml" />
     </modules>
   </component>
 </project>
