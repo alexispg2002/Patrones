@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Callback/Callback.iml" filepath="$PROJECT_DIR$/Callback/Callback.iml" />
       <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileDownLoader/FileDownLoader.iml" filepath="$PROJECT_DIR$/FileDownLoader/FileDownLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameCharacter/GameCharacter.iml" filepath="$PROJECT_DIR$/GameCharacter/GameCharacter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Guessevent/Guessevent.iml" filepath="$PROJECT_DIR$/Guessevent/Guessevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patrones.iml" filepath="$PROJECT_DIR$/Patrones.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrinterSpooler/PrinterSpooler.iml" filepath="$PROJECT_DIR$/PrinterSpooler/PrinterSpooler.iml" />
